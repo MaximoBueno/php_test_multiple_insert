@@ -1,2 +1,2 @@
 # test multiple insert
-Multiple Insert
+Error consultas bloqueadas al emplear una conexion global en php sin usar un ORM o PDO
