@@ -1,2 +1,2 @@
-# testMultipleInsert
-Multiple Insert with Mysql in PHP
+# test multiple insert
+Multiple Insert
